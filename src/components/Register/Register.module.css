@@ -1,0 +1,19 @@
+.form-div {
+    margin-top: 3rem;
+    margin-left: 10%;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    max-width: 80%;
+    border-radius: 0.5rem;
+    border: solid lightblue;
+}
+
+.form-div h2{
+    display: flex;
+    
+    justify-content: center;
+    background-color: lightblue;
+    border-radius: 0.5rem;
+    padding: 0.5rem;  
+}
